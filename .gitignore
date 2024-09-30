@@ -29,3 +29,4 @@ sandman/build/
 sandman/source/sandman
 .venv/
 __pycache__/
+build/
